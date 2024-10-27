@@ -25,7 +25,7 @@
 ### 1. `main.py`
 *Точка входа в приложение.*  
 Инициализирует Telegram-бота, получает IAM токен от Yandex API, векторизует текст из DOCX-файла и запускает обработку сообщений.
-![{4BFEF3BD-8542-4320-B73D-6B57F29F5F14}](https://github.com/user-attachments/assets/1b20030b-6a84-451f-8d79-636bd1e1ed85)
+![{17AF8924-1578-4511-80D5-E016DD2FBBB0}](https://github.com/user-attachments/assets/5d45be7d-b603-4c8b-b76e-db069d53c572)
 
 ### 2. `background.py`
 *Запускает Flask-сервер для поддержки работы бота.*  
