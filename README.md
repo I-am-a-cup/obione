@@ -25,7 +25,7 @@
 ### 1. `main.py`
 *Точка входа в приложение.*  
 Инициализирует Telegram-бота, получает IAM токен от Yandex API, векторизует текст из DOCX-файла и запускает обработку сообщений.
-![{16BF75A8-B588-4206-A081-DAA37900FFFA}](https://github.com/user-attachments/assets/b188e8ce-d486-49fe-9d73-0212ee777b2a)
+![{4BFEF3BD-8542-4320-B73D-6B57F29F5F14}](https://github.com/user-attachments/assets/1b20030b-6a84-451f-8d79-636bd1e1ed85)
 
 ### 2. `background.py`
 *Запускает Flask-сервер для поддержки работы бота.*  
@@ -49,9 +49,9 @@
 ### 6. `bot_handler.py`
 *Содержит логику обработки команд и текстовых сообщений бота.*  
 Взаимодействует с API Yandex, получает ответы и отправляет сообщения пользователям.
-![{2190DBDD-5A1C-4EED-B9EA-D6BB33B1E0F0}](https://github.com/user-attachments/assets/c71550c2-6594-4ca2-a26c-ab995c794950)
+![{16BF75A8-B588-4206-A081-DAA37900FFFA}](https://github.com/user-attachments/assets/b188e8ce-d486-49fe-9d73-0212ee777b2a)
 
 ### 7. `pictures.py`
 *Отвечает за изображения.*  
 Получаяет изображения и указывает их номер из документа.
-![{4BFEF3BD-8542-4320-B73D-6B57F29F5F14}](https://github.com/user-attachments/assets/1b20030b-6a84-451f-8d79-636bd1e1ed85)
+![{2190DBDD-5A1C-4EED-B9EA-D6BB33B1E0F0}](https://github.com/user-attachments/assets/c71550c2-6594-4ca2-a26c-ab995c794950)
