@@ -49,7 +49,7 @@
 ### 6. `bot_handler.py`
 *Содержит логику обработки команд и текстовых сообщений бота.*  
 Взаимодействует с API Yandex, получает ответы и отправляет сообщения пользователям.
-![{16BF75A8-B588-4206-A081-DAA37900FFFA}](https://github.com/user-attachments/assets/b188e8ce-d486-49fe-9d73-0212ee777b2a)
+![{3ADE3441-BF23-41CC-A661-669A4159F5B3}](https://github.com/user-attachments/assets/628abff3-6586-4092-bd70-3b4e34e79ca3)
 
 ### 7. `pictures.py`
 *Отвечает за изображения.*  
