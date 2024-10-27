@@ -6,7 +6,9 @@ from document_handler import extract_text_from_docx
 from vectorization import vectorize_text, vectorize_query, find_best_match
 from api_requests import api_request
 from bot_handler import initialize_bot
+import pictures
 
+pictures.main()
 # Настройка логирования
 logging.basicConfig(level=logging.INFO)
 
